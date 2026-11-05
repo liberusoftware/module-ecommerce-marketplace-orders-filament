@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-marketplace-orders-filament",
+  "capabilityKey": "planned:ecommerce:marketplace-orders",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-marketplace-orders-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/marketplace-orders.md",
+  "presentationPlan": "projects/ecommerce/filament/marketplace-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
